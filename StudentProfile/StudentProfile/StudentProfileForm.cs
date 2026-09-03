@@ -9,7 +9,7 @@ namespace StudentProfile
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Student: Ervin Krystoff De Jesus ", "Student Profile!");
+            MessageBox.Show("GitHub Beginner Lab ", "Student Profile!");
         }
     }
 }
